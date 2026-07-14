@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a Senior Software Engineer with more than twelve years of experience building products across frontend, backend, and cloud technologies. I have worked on large scale ecommerce platforms, developer tooling, and distributed systems for global companies including Marks and Spencer, Fast Retailing, and Shell.
+I am a Frontend Architect/Senior Software Engineer with more than twelve years of experience building products across frontend, backend, and cloud technologies. I have worked on large scale ecommerce platforms, developer tooling, and distributed systems for global companies including Marks and Spencer, Fast Retailing, and Shell.
 
 <img width="1536" height="1024" alt="Background image" src="https://github.com/user-attachments/assets/761a4045-0b02-4cab-818a-1bca8f96c3aa" />
 
